@@ -42,4 +42,5 @@ Be aware of the API rate limits imposed by Yahoo Finance.
 
 ### Author
 Carlos Peixer
+
 Feel free to contribute or report issues via the project's repository.
